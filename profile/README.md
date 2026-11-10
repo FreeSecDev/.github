@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>Linux compliance you can audit, remediate and prove, with every change under your control.</strong>
+  <strong>Audit, remediate and prove Linux hosts against open security baselines.</strong>
 </p>
 
 <p align="center">
