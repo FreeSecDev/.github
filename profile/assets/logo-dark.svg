@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" width="520" height="120" role="img" aria-labelledby="t">
+<title id="t">FreeSecDev</title>
+<g transform="translate(10 12) scale(1.33)"><defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14B8A6"/><stop offset="1" stop-color="#0F766E"/></linearGradient></defs><path d="M32 2 L60 12 V34 C60 52 47 64 32 70 C17 64 4 52 4 34 V12 Z" fill="url(#g)"/><path d="M19 36 L28 45 L46 26" fill="none" stroke="#FFFFFF" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="112" y="70" font-family="Ubuntu, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="52" font-weight="700" fill="#E6EDF3">Free<tspan fill="#2DD4BF">Sec</tspan>Dev</text>
+<text x="114" y="100" font-family="Ubuntu, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" fill="#9198A1">Open Linux compliance, remediated natively</text>
+</svg>
