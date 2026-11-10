@@ -25,7 +25,7 @@ each setting, and fully reversible.
 
 ## Projects
 
-| | |
+| Repository | Description |
 |---|---|
 | [**ansible-linux-compliance**](https://github.com/FreeSecDev/ansible-linux-compliance) | The Ansible collection `freesecdev.linux_compliance`: audit, remediation, verification and reporting, with an offline dashboard and an evidence bundle per run |
 | [**linux-compliance-runner**](https://github.com/FreeSecDev/linux-compliance-runner) | The hardened, signed toolbox image that the collection's CI runs in |
